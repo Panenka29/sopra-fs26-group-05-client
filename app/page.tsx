@@ -11,6 +11,7 @@ export default function Home() {
     <div className={styles.page}>
       <main className={styles.main}>
         <h1>Sopra FS26 – Group 05</h1>
+        
         <Image
           className={styles.logo}
           src="/next.svg"
